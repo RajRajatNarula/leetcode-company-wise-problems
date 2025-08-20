@@ -12,3 +12,4 @@ EASY,Intersection of Two Arrays,60.7,0.7647431845238689,https://leetcode.com/pro
 MEDIUM,Set Matrix Zeroes,60.7,0.6070888278303417,https://leetcode.com/problems/set-matrix-zeroes,"Array, Hash Table, Matrix"
 MEDIUM,Shuffle an Array,60.7,0.5904289804092742,https://leetcode.com/problems/shuffle-an-array,"Array, Math, Design, Randomized"
 MEDIUM,Longest Substring Without Repeating Characters,60.7,0.369361700262351,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,count of substrings with non repeating characters,
